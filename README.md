@@ -26,6 +26,11 @@ Nutriserve is the place to order your healthy meal kits, tailored to your tastes
 - [x] - User can also look see how the delivery work.
 - [x] - There is also a wishlist feature, where user can save the meals for future.
 
+## Siddhesh's completed task
+
+- [x] - Create APIs and authentication for the app consumption.
+- [x] - Worked on blog and contact.
+      
 ## Saurabh's completed tasks
 
 - [x] - Create APIs and authentication for the app consumption.
@@ -36,7 +41,4 @@ Nutriserve is the place to order your healthy meal kits, tailored to your tastes
 - [x] - Create APIs and authentication for the app consumption.
 - [x] - Worked on How it works and meals page.
 
-## Siddhesh's completed task
 
-- [x] - Create APIs and authentication for the app consumption.
-- [x] - Worked on blog and contact.
